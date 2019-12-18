@@ -54,6 +54,8 @@ The steps taken to complete this were:
 5. Make the sphere rotate
 
 The next step for the audio visualizer was to create the rings that orbit the core. I took inspiration from the Visualexample to create the rings. I created 4 rings and altered the angles of the rings so that it would form a sphere. I also made the rings rotate while the core rotates.
+## What I am most proud of
+I am most proud of the pulsating core in my project. This took a lot of time to get perfect but i am satisfied with the results. However I initially planned for it to only respond to the bass, this was changed. I made the core respond to 8 differend frequency bands instead. The one thing that i am dissapointed in is that i was not able to create the flowers that orbit the outside rings. I will however complete this in my own time so that this project will be finished to my liking.
 ## what resources were useful for me
 
 The most useful resoure that i found online was a youtube [playlist](https://www.youtube.com/watch?v=5pmoP1ZOoNs&list=PL3POsQzaCw53p2tA6AWf7_AWgplskR0Vo) of a audio visualizer tutorial. This tutorial showed me the basics on how to create an audio visualizer.
