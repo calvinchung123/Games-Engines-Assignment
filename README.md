@@ -40,3 +40,23 @@ I am going to work on each section individually and combine all these elements t
 - Git Hub Repository
 - A detailed description of what your assignment does and how it works
 - Youtube video which shows the project functioning
+
+## Final Readme
+
+## Description of what I done
+
+To start this assignment off I used the visualExample file that was given to me in the class. I used the AudioAnalyzer from this example for my audio analyzer. The next step in the creation of my audio visualizer was to create a pulsing core that responded to the audio. 
+The steps taken to complete this were:
+1. Creating cubes that reacted to audio
+2. Attach the cubes onto a sphere
+3. Make the cubes respond to different bandwidths
+4. Make the cubes change color
+5. Make the sphere rotate
+
+The next step for the audio visualizer was to create the rings that orbit the core. I took inspiration from the Visualexample to create the rings. I created 4 rings and altered the angles of the rings so that it would form a sphere. I also made the rings rotate while the core rotates.
+## what resources were useful for me
+
+The most useful resoure that i found online was a youtube [playlist](https://www.youtube.com/watch?v=5pmoP1ZOoNs&list=PL3POsQzaCw53p2tA6AWf7_AWgplskR0Vo) of a audio visualizer tutorial. This tutorial showed me the basics on how to create an audio visualizer.
+## Youtube Link
+This is a [link](https://www.youtube.com/watch?v=cehZ__giIyc) to the video
+
